@@ -78,6 +78,8 @@ If you’re a mentor, recruiter, fellow learner, or just curious — feel free t
 
 Thanks for stopping by!
 
+>  **This following block is about the future suggestions!**
+---
 
 <details>
 <summary>📝 Suggestions for Further Improvement</summary>
