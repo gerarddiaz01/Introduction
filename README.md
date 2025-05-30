@@ -46,39 +46,23 @@ I’m currently expanding into full-stack frameworks, system design, and interfa
 
 ---
 
-## 📁 Featured Projects
-
-Take a look at some of my most formative projects:
-- 🔄 [Automated Survey Bot (Qualtrics + Selenium)](link)  
-- 🎬 [Netflix-Style Recommendation Engine (pandas + scikit-learn)](link)  
-- 🌐 [Website Connectivity Checker (GUI + urllib)](link)
-
-Each of these projects reflects a new step in my journey, my thought process, and my growth as a developer.
-
----
-
-## 📬 Contact & Links
-
-I'm always open to collaboration, feedback, or a good tech conversation.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🌐 [Portfolio Website](https://yourwebsite.com)  
-- 📧 Email: your.email@example.com
-
----
-
 ## 🔗 Let’s Connect
 >  **This part has to be updated with my info!**
 
+I'm always open to collaboration, feedback, or a good tech conversation.
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerarddiazgibert@gmail.com)
 
 If you’re a mentor, recruiter, fellow learner, or just curious — feel free to reach out or explore my projects. I'm here to build, learn, and contribute.
 
 Thanks for stopping by!
 
->  **This following block is about the future suggestions!**
+
+
+
+>  **This following block is about the future suggestions**
 ---
 
 <details>
@@ -87,23 +71,23 @@ Thanks for stopping by!
 > 🧪 *These are notes for myself to improve this README and portfolio over time. This section is private for now, but will help guide the evolution of this page.*
 
 - **Fill in Real Links:**  
-  Replace the placeholder links (LinkedIn, Portfolio, email, project URLs) with your actual URLs when you're ready.
+  Replace the placeholder links (LinkedIn, Portfolio, email, project URLs) with my actual URLs when I'm ready.
 
 - **Project Details:**  
-  Add one-sentence summaries for each project, focusing on what makes them interesting or what you learned.
+  Add one-sentence summaries for each project, focusing on what makes them interesting or what I learned.
 
 - **Skill Level Indicators:**  
-  Use emojis, badges, or plain text to indicate your current level of comfort or proficiency with each skill.
+  Use emojis, badges, or plain text to indicate my current level of comfort or proficiency with each skill.
 
 - **Visuals:**  
   Include a profile picture, banner, or project screenshots to make the page more visually engaging.
 
 - **Keep It Updated:**  
-  As you complete new projects or learn new technologies, update this README to reflect your growth.
+  As I complete new projects or learn new technologies, update this README to reflect my growth.
 
+- **Feature my best projects:**  
+  Showcase the handful of projects that I am most proud of.
 ---
-
-> ✅ *Your README is already professional, authentic, and inviting. With just a few personal touches, it can become a powerful portfolio centerpiece.*
 
 </details>
 
