@@ -30,7 +30,7 @@ Each repository includes:
 - 🧪 What I experimented with
 - 🧱 What I built and how
 - 💡 What I learned and improved
-- 🔁 Which obstacles I encountered and how I pulled through
+- 🔁 Which challenges I encountered and how I pushed through
 
 I want my portfolio to reflect not just my skills, but my journey, my mindset, and the kind of developer I’m becoming.
 
