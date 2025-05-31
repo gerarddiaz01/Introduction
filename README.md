@@ -30,7 +30,7 @@ Each repository includes:
 - 🧪 What I experimented with
 - 🧱 What I built and how
 - 💡 What I learned and improved
-- 🔁 What I’d do differently next time
+- 🔁 Which obstacles I encountered and how I pulled through
 
 I want my portfolio to reflect not just my skills, but my journey, my mindset, and the kind of developer I’m becoming.
 
@@ -38,8 +38,8 @@ I want my portfolio to reflect not just my skills, but my journey, my mindset, a
 
 ## 🛠️ Skills in Progress
 
-- **Languages**: Python, HTML, CSS, JavaScript  
-- **Concepts**: Algorithms, Data Handling, Web Development, Automation  
+- **Languages**: Python✅, HTML, CSS, JavaScript  
+- **Concepts**: Algorithms✅, Data Handling✅, Web Development, Automation  
 - **Mindset**: Resilient, Curious, Self-taught & Self-aware
 
 I’m currently expanding into full-stack frameworks, system design, and interface development.
